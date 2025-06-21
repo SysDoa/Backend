@@ -47,3 +47,7 @@ Este projeto pode ser limpo, reconstruído e executado facilmente usando comando
         
   - Execute o comando para rodar o projeto no windows:
     - ./mvnw spring-boot:run
+
+## Documentação do Projeto
+
+Leia a [_documentação do projeto_](https://github.com/SysDoa/Documentos), para seguir padrões pré-definidos, evitando conflitos de códigos e manter a conformidade com a qualidade de software. 
