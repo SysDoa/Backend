@@ -1,4 +1,4 @@
-# Sysdoa - Backend
+# SysDoa - Backend
 
 SysDoa, um sistema móvel que permite não só uma gestão virtual de candidatos de uma agência de banco de sangue, como também possibilita análises estatísticas das informações coletadas.
 
@@ -47,6 +47,10 @@ Este projeto pode ser limpo, reconstruído e executado facilmente usando comando
         
   - Execute o comando para rodar o projeto no windows:
     - ./mvnw spring-boot:run
+
+## Endpoint
+
+Use o seguinte endpoint para validar a execução do código: [endpoint.json](/endpoint.json)
 
 ## Documentação do Projeto
 
